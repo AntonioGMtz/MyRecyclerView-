@@ -11,7 +11,9 @@ class SuperHeroViewHolder(view: View) : RecyclerView.ViewHolder(view) {
     val publisher = view.findViewById<TextView>(R.id.tvPublisher)
     val photo = view.findViewById<ImageView>(R.id.ivSuperHero)
 
-    fun render(superHero: SuperHero) {
-
+    fun render(superHeroModel: SuperHero) {
+        superHero.text = superHeroModel.superHero
+        superHero.text = superHeroModel.realName
+        superHero.text = superHeroModel.publisher
     }
 }
