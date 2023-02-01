@@ -8,25 +8,25 @@ class SuperHeroProvider {
                 "Spiderman",
                 "Marvel",
                 "Peter Parker",
-                "https://"
+                "https://www.clipartmax.com/png/middle/114-1140639_unnamed-vector-android-logo-svg.png"
             ),
             SuperHero(
                 "Batman",
                 "DC",
                 "Bruce Wayne",
-                "https://"
+                "https://www.clipartmax.com/png/middle/114-1140639_unnamed-vector-android-logo-svg.png"
             ),
             SuperHero(
                 "Superman",
                 "DC",
                 "Clark Kent",
-                "https//"
+                "https://www.clipartmax.com/png/middle/114-1140639_unnamed-vector-android-logo-svg.png"
             ),
             SuperHero(
                 "Iron Man",
                 "Marvel",
                 "Tony Stark",
-                "https://"
+                "https://www.clipartmax.com/png/middle/114-1140639_unnamed-vector-android-logo-svg.png"
             )
 
         )
